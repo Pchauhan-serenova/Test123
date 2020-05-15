@@ -9,6 +9,7 @@ namespace TestConsoleApp
     {
         public void Main(string[] args)
         {
+            Console.WriteLine("Hellloo");
         }
     }
 }
